@@ -1,6 +1,8 @@
+// *** POMEMBNO ***
+// Najprej je potrebno prenesti knjižnjico s te povezave: https://github.com/MHeironimus/ArduinoJoystickLibrary/archive/master.zip
+
 #include "Joystick.h"
 
-// Create Joystick
 Joystick_ Joystick;
 
 void setup() {
